@@ -1,0 +1,1002 @@
+[
+  {
+    "instruction": "Am I eligible for a personal loan?",
+    "input": "",
+    "output": "Loan eligibility is determined based on your income profile, credit history, existing obligations, and repayment capacity. Kindly submit your application through the official portal or visit your nearest branch for a detailed eligibility assessment."
+  },
+  {
+    "instruction": "What documents are required for a home loan?",
+    "input": "",
+    "output": "Home loan documentation typically includes identity proof, address proof, income statements, bank statements, and property-related documents. The final list may vary based on applicant profile and regulatory requirements."
+  },
+  {
+    "instruction": "How can I check my loan application status?",
+    "input": "",
+    "output": "You may check your loan application status using the application reference number through the official customer portal or by contacting authorized customer support."
+  },
+  {
+    "instruction": "Can I prepay my loan?",
+    "input": "",
+    "output": "Loan prepayment is permitted subject to the terms and conditions mentioned in your loan agreement. Applicable charges, if any, will depend on the loan type and tenure."
+  },
+  {
+    "instruction": "How is EMI calculated?",
+    "input": "",
+    "output": "EMI is calculated based on the loan amount, applicable interest rate, and selected tenure using a standard amortization formula. A detailed schedule is provided at the time of loan disbursement."
+  },
+  {
+    "instruction": "Can I change my EMI due date?",
+    "input": "",
+    "output": "EMI due date modification requests may be considered subject to internal policy guidelines. Kindly submit a formal request through the designated service channel."
+  },
+  {
+    "instruction": "What is the current interest rate for personal loans?",
+    "input": "",
+    "output": "Interest rates are determined based on prevailing benchmark rates and individual credit assessment. Please refer to the official website or contact authorized representatives for the latest applicable rates."
+  },
+  {
+    "instruction": "Why was my transaction declined?",
+    "input": "",
+    "output": "Transaction declines may occur due to insufficient balance, security restrictions, or system validations. Kindly verify account details and retry or contact support if the issue persists."
+  },
+  {
+    "instruction": "A transaction was debited but not credited.",
+    "input": "",
+    "output": "Pending transactions typically resolve within standard processing timelines. If the amount is not reversed within 48 hours, please raise a dispute with transaction reference details."
+  },
+  {
+    "instruction": "How do I download my account statement?",
+    "input": "",
+    "output": "You may download your account statement through the registered online banking platform under the statements section."
+  },
+  {
+    "instruction": "What is foreclosure of loan?",
+    "input": "",
+    "output": "Loan foreclosure refers to the full repayment of the outstanding loan amount before the scheduled tenure completion, subject to applicable terms and charges."
+  },
+  {
+    "instruction": "Can I increase my credit card limit?",
+    "input": "",
+    "output": "Credit limit enhancement is subject to periodic review based on repayment history, credit utilization, and internal assessment criteria."
+  },
+  {
+    "instruction": "How do I report a fraudulent transaction?",
+    "input": "",
+    "output": "Please immediately report the transaction through the official fraud reporting channel and temporarily block your card or account access if required."
+  },
+  {
+    "instruction": "What happens if I miss an EMI?",
+    "input": "",
+    "output": "Missed EMIs may attract late payment charges and could impact your credit score. It is advisable to regularize overdue payments at the earliest."
+  },
+  {
+    "instruction": "How can I close my savings account?",
+    "input": "",
+    "output": "Account closure requests must be submitted through authorized banking channels after clearing all pending balances and obligations."
+  },
+  {
+    "instruction": "What is loan tenure?",
+    "input": "",
+    "output": "Loan tenure refers to the total duration over which the borrowed amount is scheduled to be repaid along with applicable interest."
+  },
+  {
+    "instruction": "How do I update my registered mobile number?",
+    "input": "",
+    "output": "Mobile number updates require identity verification and can be initiated through branch visit or secure online banking channels."
+  },
+  {
+    "instruction": "What is a floating interest rate?",
+    "input": "",
+    "output": "A floating interest rate varies based on benchmark rate movements and may change periodically during the loan tenure."
+  },
+  {
+    "instruction": "What is a fixed interest rate?",
+    "input": "",
+    "output": "A fixed interest rate remains constant throughout the agreed loan tenure irrespective of market fluctuations."
+  },
+  {
+    "instruction": "How long does loan approval take?",
+    "input": "",
+    "output": "Loan approval timelines vary depending on document verification, eligibility assessment, and internal processing standards."
+  },
+  {
+    "instruction": "Can I transfer my loan to another bank?",
+    "input": "",
+    "output": "Loan balance transfer is permitted subject to eligibility and policy guidelines of the receiving institution."
+  },
+  {
+    "instruction": "How is my credit score used?",
+    "input": "",
+    "output": "Your credit score reflects repayment behavior and is used as one of the parameters to assess loan and credit applications."
+  },
+  {
+    "instruction": "What is EMI moratorium?",
+    "input": "",
+    "output": "An EMI moratorium allows temporary deferment of scheduled payments under specific regulatory or policy provisions."
+  },
+  {
+    "instruction": "How can I reset my online banking password?",
+    "input": "",
+    "output": "Password reset can be completed securely through the official login page using registered authentication methods."
+  },
+  {
+    "instruction": "Is there a penalty for late payment?",
+    "input": "",
+    "output": "Late payments may attract penalties as specified in your agreement. Please review the applicable terms in your loan or card documentation."
+  },
+  {
+    "instruction": "How do I check my outstanding loan balance?",
+    "input": "",
+    "output": "Outstanding balance details are available through your loan statement or via the customer service portal."
+  },
+  {
+    "instruction": "What is loan processing fee?",
+    "input": "",
+    "output": "A processing fee is a one-time charge applied during loan initiation to cover administrative and verification expenses."
+  },
+  {
+    "instruction": "Can I change my loan tenure?",
+    "input": "",
+    "output": "Tenure modification requests are evaluated based on repayment history and internal approval policies."
+  },
+  {
+    "instruction": "How do I dispute a transaction?",
+    "input": "",
+    "output": "Transaction disputes must be submitted through the designated grievance mechanism with complete transaction details."
+  },
+  {
+    "instruction": "What is APR?",
+    "input": "",
+    "output": "APR or Annual Percentage Rate represents the total yearly cost of borrowing including applicable interest and certain charges."
+  },
+  {
+    "instruction": "How is interest applied on credit cards?",
+    "input": "",
+    "output": "Interest is applied on revolving balances beyond the due date as per the cardholder agreement."
+  },
+  {
+    "instruction": "Can I open a joint account?",
+    "input": "",
+    "output": "Joint account opening is subject to submission of identity documents and compliance with regulatory requirements."
+  },
+  {
+    "instruction": "What is KYC verification?",
+    "input": "",
+    "output": "KYC verification is a regulatory process to confirm customer identity and ensure compliance with financial regulations."
+  },
+  {
+    "instruction": "How do I check my EMI schedule?",
+    "input": "",
+    "output": "EMI schedule details are available in your loan amortization statement provided at disbursement."
+  },
+  {
+    "instruction": "What is loan restructuring?",
+    "input": "",
+    "output": "Loan restructuring refers to modification of repayment terms under specific financial hardship conditions subject to approval."
+  },
+  {
+    "instruction": "How can I block my debit card?",
+    "input": "",
+    "output": "Debit card blocking can be done instantly via the official banking app or by contacting authorized customer support."
+  },
+  {
+    "instruction": "What is minimum due amount?",
+    "input": "",
+    "output": "The minimum due amount represents the lowest payment required to keep your credit account in good standing."
+  },
+  {
+    "instruction": "Can I get a duplicate loan statement?",
+    "input": "",
+    "output": "Duplicate loan statements can be requested through official service channels or downloaded via online banking."
+  },
+  {
+    "instruction": "How do I update my address?",
+    "input": "",
+    "output": "Address updates require submission of valid proof documents through authorized banking channels."
+  },
+  {
+    "instruction": "What is overdraft facility?",
+    "input": "",
+    "output": "An overdraft facility allows withdrawal beyond the available account balance up to an approved limit."
+  },
+  {
+    "instruction": "How can I activate my new card?",
+    "input": "",
+    "output": "Card activation can be completed securely through the official mobile app, online portal, or IVR system."
+  },
+  {
+    "instruction": "What is loan disbursement process?",
+    "input": "",
+    "output": "Loan disbursement occurs after successful verification of documentation and completion of approval procedures."
+  },
+  {
+    "instruction": "Can I apply for a top-up loan?",
+    "input": "",
+    "output": "Top-up loan eligibility depends on repayment performance and outstanding balance assessment."
+  },
+  {
+    "instruction": "What is ECS mandate?",
+    "input": "",
+    "output": "An ECS mandate authorizes automatic debit of scheduled payments from your registered bank account."
+  },
+  {
+    "instruction": "How do I file a complaint?",
+    "input": "",
+    "output": "Complaints can be submitted through the official grievance redressal mechanism with reference details."
+  },
+  {
+    "instruction": "How long does refund processing take?",
+    "input": "",
+    "output": "Refund timelines depend on transaction type and banking network processing standards."
+  },
+  {
+    "instruction": "What is credit utilization ratio?",
+    "input": "",
+    "output": "Credit utilization ratio represents the percentage of total credit limit currently being used."
+  },
+  {
+    "instruction": "Can I cancel my loan application?",
+    "input": "",
+    "output": "Loan cancellation requests are processed subject to application stage and internal approval guidelines."
+  },
+  {
+    "instruction": "What is secured loan?",
+    "input": "",
+    "output": "A secured loan is backed by collateral which may be claimed by the lender in case of default."
+  },
+  {
+    "instruction": "What is unsecured loan?",
+    "input": "",
+    "output": "An unsecured loan does not require collateral and is approved based on creditworthiness assessment."
+  },
+  {
+    "instruction": "Can you tell me am i eligible for a personal loan?",
+    "input": "",
+    "output": "Loan eligibility is determined based on your income profile, credit history, existing obligations, and repayment capacity. Kindly submit your application through the official portal or visit your nearest branch for a detailed eligibility assessment."
+  },
+  {
+    "instruction": "May I know what documents are required for a home loan?",
+    "input": "",
+    "output": "Home loan documentation typically includes identity proof, address proof, income statements, bank statements, and property-related documents. The final list may vary based on applicant profile and regulatory requirements."
+  },
+  {
+    "instruction": "Give information about how can i check my loan application status?",
+    "input": "",
+    "output": "You may check your loan application status using the application reference number through the official customer portal or by contacting authorized customer support."
+  },
+  {
+    "instruction": "Provide details about can i prepay my loan?",
+    "input": "",
+    "output": "Loan prepayment is permitted subject to the terms and conditions mentioned in your loan agreement. Applicable charges, if any, will depend on the loan type and tenure."
+  },
+  {
+    "instruction": "May I know how is emi calculated?",
+    "input": "",
+    "output": "EMI is calculated based on the loan amount, applicable interest rate, and selected tenure using a standard amortization formula. A detailed schedule is provided at the time of loan disbursement."
+  },
+  {
+    "instruction": "Help me understand can i change my emi due date?",
+    "input": "",
+    "output": "EMI due date modification requests may be considered subject to internal policy guidelines. Kindly submit a formal request through the designated service channel."
+  },
+  {
+    "instruction": "Give information about what is the current interest rate for personal loans?",
+    "input": "",
+    "output": "Interest rates are determined based on prevailing benchmark rates and individual credit assessment. Please refer to the official website or contact authorized representatives for the latest applicable rates."
+  },
+  {
+    "instruction": "Give information about why was my transaction declined?",
+    "input": "",
+    "output": "Transaction declines may occur due to insufficient balance, security restrictions, or system validations. Kindly verify account details and retry or contact support if the issue persists."
+  },
+  {
+    "instruction": "May I know a transaction was debited but not credited.",
+    "input": "",
+    "output": "Pending transactions typically resolve within standard processing timelines. If the amount is not reversed within 48 hours, please raise a dispute with transaction reference details."
+  },
+  {
+    "instruction": "Help me understand how do i download my account statement?",
+    "input": "",
+    "output": "You may download your account statement through the registered online banking platform under the statements section."
+  },
+  {
+    "instruction": "Please explain what is foreclosure of loan?",
+    "input": "",
+    "output": "Loan foreclosure refers to the full repayment of the outstanding loan amount before the scheduled tenure completion, subject to applicable terms and charges."
+  },
+  {
+    "instruction": "Please explain can i increase my credit card limit?",
+    "input": "",
+    "output": "Credit limit enhancement is subject to periodic review based on repayment history, credit utilization, and internal assessment criteria."
+  },
+  {
+    "instruction": "Give information about how do i report a fraudulent transaction?",
+    "input": "",
+    "output": "Please immediately report the transaction through the official fraud reporting channel and temporarily block your card or account access if required."
+  },
+  {
+    "instruction": "Give information about what happens if i miss an emi?",
+    "input": "",
+    "output": "Missed EMIs may attract late payment charges and could impact your credit score. It is advisable to regularize overdue payments at the earliest."
+  },
+  {
+    "instruction": "Help me understand how can i close my savings account?",
+    "input": "",
+    "output": "Account closure requests must be submitted through authorized banking channels after clearing all pending balances and obligations."
+  },
+  {
+    "instruction": "Help me understand what is loan tenure?",
+    "input": "",
+    "output": "Loan tenure refers to the total duration over which the borrowed amount is scheduled to be repaid along with applicable interest."
+  },
+  {
+    "instruction": "Can you tell me how do i update my registered mobile number?",
+    "input": "",
+    "output": "Mobile number updates require identity verification and can be initiated through branch visit or secure online banking channels."
+  },
+  {
+    "instruction": "I would like to know what is a floating interest rate?",
+    "input": "",
+    "output": "A floating interest rate varies based on benchmark rate movements and may change periodically during the loan tenure."
+  },
+  {
+    "instruction": "I need information on what is a fixed interest rate?",
+    "input": "",
+    "output": "A fixed interest rate remains constant throughout the agreed loan tenure irrespective of market fluctuations."
+  },
+  {
+    "instruction": "May I know how long does loan approval take?",
+    "input": "",
+    "output": "Loan approval timelines vary depending on document verification, eligibility assessment, and internal processing standards."
+  },
+  {
+    "instruction": "Provide details about can i transfer my loan to another bank?",
+    "input": "",
+    "output": "Loan balance transfer is permitted subject to eligibility and policy guidelines of the receiving institution."
+  },
+  {
+    "instruction": "Help me understand how is my credit score used?",
+    "input": "",
+    "output": "Your credit score reflects repayment behavior and is used as one of the parameters to assess loan and credit applications."
+  },
+  {
+    "instruction": "Please explain what is emi moratorium?",
+    "input": "",
+    "output": "An EMI moratorium allows temporary deferment of scheduled payments under specific regulatory or policy provisions."
+  },
+  {
+    "instruction": "Can you tell me how can i reset my online banking password?",
+    "input": "",
+    "output": "Password reset can be completed securely through the official login page using registered authentication methods."
+  },
+  {
+    "instruction": "I would like to know is there a penalty for late payment?",
+    "input": "",
+    "output": "Late payments may attract penalties as specified in your agreement. Please review the applicable terms in your loan or card documentation."
+  },
+  {
+    "instruction": "Help me understand how do i check my outstanding loan balance?",
+    "input": "",
+    "output": "Outstanding balance details are available through your loan statement or via the customer service portal."
+  },
+  {
+    "instruction": "I need information on what is loan processing fee?",
+    "input": "",
+    "output": "A processing fee is a one-time charge applied during loan initiation to cover administrative and verification expenses."
+  },
+  {
+    "instruction": "Help me understand can i change my loan tenure?",
+    "input": "",
+    "output": "Tenure modification requests are evaluated based on repayment history and internal approval policies."
+  },
+  {
+    "instruction": "Provide details about how do i dispute a transaction?",
+    "input": "",
+    "output": "Transaction disputes must be submitted through the designated grievance mechanism with complete transaction details."
+  },
+  {
+    "instruction": "I would like to know what is apr?",
+    "input": "",
+    "output": "APR or Annual Percentage Rate represents the total yearly cost of borrowing including applicable interest and certain charges."
+  },
+  {
+    "instruction": "May I know how is interest applied on credit cards?",
+    "input": "",
+    "output": "Interest is applied on revolving balances beyond the due date as per the cardholder agreement."
+  },
+  {
+    "instruction": "Please explain can i open a joint account?",
+    "input": "",
+    "output": "Joint account opening is subject to submission of identity documents and compliance with regulatory requirements."
+  },
+  {
+    "instruction": "Provide details about what is kyc verification?",
+    "input": "",
+    "output": "KYC verification is a regulatory process to confirm customer identity and ensure compliance with financial regulations."
+  },
+  {
+    "instruction": "Help me understand how do i check my emi schedule?",
+    "input": "",
+    "output": "EMI schedule details are available in your loan amortization statement provided at disbursement."
+  },
+  {
+    "instruction": "May I know what is loan restructuring?",
+    "input": "",
+    "output": "Loan restructuring refers to modification of repayment terms under specific financial hardship conditions subject to approval."
+  },
+  {
+    "instruction": "I would like to know how can i block my debit card?",
+    "input": "",
+    "output": "Debit card blocking can be done instantly via the official banking app or by contacting authorized customer support."
+  },
+  {
+    "instruction": "Help me understand what is minimum due amount?",
+    "input": "",
+    "output": "The minimum due amount represents the lowest payment required to keep your credit account in good standing."
+  },
+  {
+    "instruction": "Could you explain can i get a duplicate loan statement?",
+    "input": "",
+    "output": "Duplicate loan statements can be requested through official service channels or downloaded via online banking."
+  },
+  {
+    "instruction": "Give information about how do i update my address?",
+    "input": "",
+    "output": "Address updates require submission of valid proof documents through authorized banking channels."
+  },
+  {
+    "instruction": "May I know what is overdraft facility?",
+    "input": "",
+    "output": "An overdraft facility allows withdrawal beyond the available account balance up to an approved limit."
+  },
+  {
+    "instruction": "May I know how can i activate my new card?",
+    "input": "",
+    "output": "Card activation can be completed securely through the official mobile app, online portal, or IVR system."
+  },
+  {
+    "instruction": "I need information on what is loan disbursement process?",
+    "input": "",
+    "output": "Loan disbursement occurs after successful verification of documentation and completion of approval procedures."
+  },
+  {
+    "instruction": "Please explain can i apply for a top-up loan?",
+    "input": "",
+    "output": "Top-up loan eligibility depends on repayment performance and outstanding balance assessment."
+  },
+  {
+    "instruction": "Can you tell me what is ecs mandate?",
+    "input": "",
+    "output": "An ECS mandate authorizes automatic debit of scheduled payments from your registered bank account."
+  },
+  {
+    "instruction": "May I know how do i file a complaint?",
+    "input": "",
+    "output": "Complaints can be submitted through the official grievance redressal mechanism with reference details."
+  },
+  {
+    "instruction": "Provide details about how long does refund processing take?",
+    "input": "",
+    "output": "Refund timelines depend on transaction type and banking network processing standards."
+  },
+  {
+    "instruction": "Kindly clarify what is credit utilization ratio?",
+    "input": "",
+    "output": "Credit utilization ratio represents the percentage of total credit limit currently being used."
+  },
+  {
+    "instruction": "Provide details about can i cancel my loan application?",
+    "input": "",
+    "output": "Loan cancellation requests are processed subject to application stage and internal approval guidelines."
+  },
+  {
+    "instruction": "Help me understand what is secured loan?",
+    "input": "",
+    "output": "A secured loan is backed by collateral which may be claimed by the lender in case of default."
+  },
+  {
+    "instruction": "Can you tell me what is unsecured loan?",
+    "input": "",
+    "output": "An unsecured loan does not require collateral and is approved based on creditworthiness assessment."
+  },
+  {
+    "instruction": "Help me understand am i eligible for a personal loan?",
+    "input": "",
+    "output": "Loan eligibility is determined based on your income profile, credit history, existing obligations, and repayment capacity. Kindly submit your application through the official portal or visit your nearest branch for a detailed eligibility assessment."
+  },
+  {
+    "instruction": "I would like to know what documents are required for a home loan?",
+    "input": "",
+    "output": "Home loan documentation typically includes identity proof, address proof, income statements, bank statements, and property-related documents. The final list may vary based on applicant profile and regulatory requirements."
+  },
+  {
+    "instruction": "Please explain how can i check my loan application status?",
+    "input": "",
+    "output": "You may check your loan application status using the application reference number through the official customer portal or by contacting authorized customer support."
+  },
+  {
+    "instruction": "May I know can i prepay my loan?",
+    "input": "",
+    "output": "Loan prepayment is permitted subject to the terms and conditions mentioned in your loan agreement. Applicable charges, if any, will depend on the loan type and tenure."
+  },
+  {
+    "instruction": "Help me understand how is emi calculated?",
+    "input": "",
+    "output": "EMI is calculated based on the loan amount, applicable interest rate, and selected tenure using a standard amortization formula. A detailed schedule is provided at the time of loan disbursement."
+  },
+  {
+    "instruction": "Help me understand can i change my emi due date?",
+    "input": "",
+    "output": "EMI due date modification requests may be considered subject to internal policy guidelines. Kindly submit a formal request through the designated service channel."
+  },
+  {
+    "instruction": "Provide details about what is the current interest rate for personal loans?",
+    "input": "",
+    "output": "Interest rates are determined based on prevailing benchmark rates and individual credit assessment. Please refer to the official website or contact authorized representatives for the latest applicable rates."
+  },
+  {
+    "instruction": "Kindly clarify why was my transaction declined?",
+    "input": "",
+    "output": "Transaction declines may occur due to insufficient balance, security restrictions, or system validations. Kindly verify account details and retry or contact support if the issue persists."
+  },
+  {
+    "instruction": "I need information on a transaction was debited but not credited.",
+    "input": "",
+    "output": "Pending transactions typically resolve within standard processing timelines. If the amount is not reversed within 48 hours, please raise a dispute with transaction reference details."
+  },
+  {
+    "instruction": "Give information about how do i download my account statement?",
+    "input": "",
+    "output": "You may download your account statement through the registered online banking platform under the statements section."
+  },
+  {
+    "instruction": "Provide details about what is foreclosure of loan?",
+    "input": "",
+    "output": "Loan foreclosure refers to the full repayment of the outstanding loan amount before the scheduled tenure completion, subject to applicable terms and charges."
+  },
+  {
+    "instruction": "Give information about can i increase my credit card limit?",
+    "input": "",
+    "output": "Credit limit enhancement is subject to periodic review based on repayment history, credit utilization, and internal assessment criteria."
+  },
+  {
+    "instruction": "Can you tell me how do i report a fraudulent transaction?",
+    "input": "",
+    "output": "Please immediately report the transaction through the official fraud reporting channel and temporarily block your card or account access if required."
+  },
+  {
+    "instruction": "Give information about what happens if i miss an emi?",
+    "input": "",
+    "output": "Missed EMIs may attract late payment charges and could impact your credit score. It is advisable to regularize overdue payments at the earliest."
+  },
+  {
+    "instruction": "Can you tell me how can i close my savings account?",
+    "input": "",
+    "output": "Account closure requests must be submitted through authorized banking channels after clearing all pending balances and obligations."
+  },
+  {
+    "instruction": "Please explain what is loan tenure?",
+    "input": "",
+    "output": "Loan tenure refers to the total duration over which the borrowed amount is scheduled to be repaid along with applicable interest."
+  },
+  {
+    "instruction": "Please explain how do i update my registered mobile number?",
+    "input": "",
+    "output": "Mobile number updates require identity verification and can be initiated through branch visit or secure online banking channels."
+  },
+  {
+    "instruction": "Give information about what is a floating interest rate?",
+    "input": "",
+    "output": "A floating interest rate varies based on benchmark rate movements and may change periodically during the loan tenure."
+  },
+  {
+    "instruction": "Help me understand what is a fixed interest rate?",
+    "input": "",
+    "output": "A fixed interest rate remains constant throughout the agreed loan tenure irrespective of market fluctuations."
+  },
+  {
+    "instruction": "Give information about how long does loan approval take?",
+    "input": "",
+    "output": "Loan approval timelines vary depending on document verification, eligibility assessment, and internal processing standards."
+  },
+  {
+    "instruction": "Can you tell me can i transfer my loan to another bank?",
+    "input": "",
+    "output": "Loan balance transfer is permitted subject to eligibility and policy guidelines of the receiving institution."
+  },
+  {
+    "instruction": "Could you explain how is my credit score used?",
+    "input": "",
+    "output": "Your credit score reflects repayment behavior and is used as one of the parameters to assess loan and credit applications."
+  },
+  {
+    "instruction": "Please explain what is emi moratorium?",
+    "input": "",
+    "output": "An EMI moratorium allows temporary deferment of scheduled payments under specific regulatory or policy provisions."
+  },
+  {
+    "instruction": "Can you tell me how can i reset my online banking password?",
+    "input": "",
+    "output": "Password reset can be completed securely through the official login page using registered authentication methods."
+  },
+  {
+    "instruction": "Give information about is there a penalty for late payment?",
+    "input": "",
+    "output": "Late payments may attract penalties as specified in your agreement. Please review the applicable terms in your loan or card documentation."
+  },
+  {
+    "instruction": "Help me understand how do i check my outstanding loan balance?",
+    "input": "",
+    "output": "Outstanding balance details are available through your loan statement or via the customer service portal."
+  },
+  {
+    "instruction": "Provide details about what is loan processing fee?",
+    "input": "",
+    "output": "A processing fee is a one-time charge applied during loan initiation to cover administrative and verification expenses."
+  },
+  {
+    "instruction": "Give information about can i change my loan tenure?",
+    "input": "",
+    "output": "Tenure modification requests are evaluated based on repayment history and internal approval policies."
+  },
+  {
+    "instruction": "Kindly clarify how do i dispute a transaction?",
+    "input": "",
+    "output": "Transaction disputes must be submitted through the designated grievance mechanism with complete transaction details."
+  },
+  {
+    "instruction": "Provide details about what is apr?",
+    "input": "",
+    "output": "APR or Annual Percentage Rate represents the total yearly cost of borrowing including applicable interest and certain charges."
+  },
+  {
+    "instruction": "I would like to know how is interest applied on credit cards?",
+    "input": "",
+    "output": "Interest is applied on revolving balances beyond the due date as per the cardholder agreement."
+  },
+  {
+    "instruction": "Please explain can i open a joint account?",
+    "input": "",
+    "output": "Joint account opening is subject to submission of identity documents and compliance with regulatory requirements."
+  },
+  {
+    "instruction": "May I know what is kyc verification?",
+    "input": "",
+    "output": "KYC verification is a regulatory process to confirm customer identity and ensure compliance with financial regulations."
+  },
+  {
+    "instruction": "I would like to know how do i check my emi schedule?",
+    "input": "",
+    "output": "EMI schedule details are available in your loan amortization statement provided at disbursement."
+  },
+  {
+    "instruction": "Provide details about what is loan restructuring?",
+    "input": "",
+    "output": "Loan restructuring refers to modification of repayment terms under specific financial hardship conditions subject to approval."
+  },
+  {
+    "instruction": "Please explain how can i block my debit card?",
+    "input": "",
+    "output": "Debit card blocking can be done instantly via the official banking app or by contacting authorized customer support."
+  },
+  {
+    "instruction": "Provide details about what is minimum due amount?",
+    "input": "",
+    "output": "The minimum due amount represents the lowest payment required to keep your credit account in good standing."
+  },
+  {
+    "instruction": "I would like to know can i get a duplicate loan statement?",
+    "input": "",
+    "output": "Duplicate loan statements can be requested through official service channels or downloaded via online banking."
+  },
+  {
+    "instruction": "Give information about how do i update my address?",
+    "input": "",
+    "output": "Address updates require submission of valid proof documents through authorized banking channels."
+  },
+  {
+    "instruction": "I need information on what is overdraft facility?",
+    "input": "",
+    "output": "An overdraft facility allows withdrawal beyond the available account balance up to an approved limit."
+  },
+  {
+    "instruction": "Give information about how can i activate my new card?",
+    "input": "",
+    "output": "Card activation can be completed securely through the official mobile app, online portal, or IVR system."
+  },
+  {
+    "instruction": "Help me understand what is loan disbursement process?",
+    "input": "",
+    "output": "Loan disbursement occurs after successful verification of documentation and completion of approval procedures."
+  },
+  {
+    "instruction": "Provide details about can i apply for a top-up loan?",
+    "input": "",
+    "output": "Top-up loan eligibility depends on repayment performance and outstanding balance assessment."
+  },
+  {
+    "instruction": "Please explain what is ecs mandate?",
+    "input": "",
+    "output": "An ECS mandate authorizes automatic debit of scheduled payments from your registered bank account."
+  },
+  {
+    "instruction": "Provide details about how do i file a complaint?",
+    "input": "",
+    "output": "Complaints can be submitted through the official grievance redressal mechanism with reference details."
+  },
+  {
+    "instruction": "Could you explain how long does refund processing take?",
+    "input": "",
+    "output": "Refund timelines depend on transaction type and banking network processing standards."
+  },
+  {
+    "instruction": "Could you explain what is credit utilization ratio?",
+    "input": "",
+    "output": "Credit utilization ratio represents the percentage of total credit limit currently being used."
+  },
+  {
+    "instruction": "May I know can i cancel my loan application?",
+    "input": "",
+    "output": "Loan cancellation requests are processed subject to application stage and internal approval guidelines."
+  },
+  {
+    "instruction": "Can you tell me what is secured loan?",
+    "input": "",
+    "output": "A secured loan is backed by collateral which may be claimed by the lender in case of default."
+  },
+  {
+    "instruction": "I need information on what is unsecured loan?",
+    "input": "",
+    "output": "An unsecured loan does not require collateral and is approved based on creditworthiness assessment."
+  },
+  {
+    "instruction": "May I know am i eligible for a personal loan?",
+    "input": "",
+    "output": "Loan eligibility is determined based on your income profile, credit history, existing obligations, and repayment capacity. Kindly submit your application through the official portal or visit your nearest branch for a detailed eligibility assessment."
+  },
+  {
+    "instruction": "I need information on what documents are required for a home loan?",
+    "input": "",
+    "output": "Home loan documentation typically includes identity proof, address proof, income statements, bank statements, and property-related documents. The final list may vary based on applicant profile and regulatory requirements."
+  },
+  {
+    "instruction": "I need information on how can i check my loan application status?",
+    "input": "",
+    "output": "You may check your loan application status using the application reference number through the official customer portal or by contacting authorized customer support."
+  },
+  {
+    "instruction": "Could you explain can i prepay my loan?",
+    "input": "",
+    "output": "Loan prepayment is permitted subject to the terms and conditions mentioned in your loan agreement. Applicable charges, if any, will depend on the loan type and tenure."
+  },
+  {
+    "instruction": "I need information on how is emi calculated?",
+    "input": "",
+    "output": "EMI is calculated based on the loan amount, applicable interest rate, and selected tenure using a standard amortization formula. A detailed schedule is provided at the time of loan disbursement."
+  },
+  {
+    "instruction": "Give information about can i change my emi due date?",
+    "input": "",
+    "output": "EMI due date modification requests may be considered subject to internal policy guidelines. Kindly submit a formal request through the designated service channel."
+  },
+  {
+    "instruction": "Give information about what is the current interest rate for personal loans?",
+    "input": "",
+    "output": "Interest rates are determined based on prevailing benchmark rates and individual credit assessment. Please refer to the official website or contact authorized representatives for the latest applicable rates."
+  },
+  {
+    "instruction": "Provide details about why was my transaction declined?",
+    "input": "",
+    "output": "Transaction declines may occur due to insufficient balance, security restrictions, or system validations. Kindly verify account details and retry or contact support if the issue persists."
+  },
+  {
+    "instruction": "May I know a transaction was debited but not credited.",
+    "input": "",
+    "output": "Pending transactions typically resolve within standard processing timelines. If the amount is not reversed within 48 hours, please raise a dispute with transaction reference details."
+  },
+  {
+    "instruction": "I need information on how do i download my account statement?",
+    "input": "",
+    "output": "You may download your account statement through the registered online banking platform under the statements section."
+  },
+  {
+    "instruction": "Could you explain what is foreclosure of loan?",
+    "input": "",
+    "output": "Loan foreclosure refers to the full repayment of the outstanding loan amount before the scheduled tenure completion, subject to applicable terms and charges."
+  },
+  {
+    "instruction": "May I know can i increase my credit card limit?",
+    "input": "",
+    "output": "Credit limit enhancement is subject to periodic review based on repayment history, credit utilization, and internal assessment criteria."
+  },
+  {
+    "instruction": "Could you explain how do i report a fraudulent transaction?",
+    "input": "",
+    "output": "Please immediately report the transaction through the official fraud reporting channel and temporarily block your card or account access if required."
+  },
+  {
+    "instruction": "May I know what happens if i miss an emi?",
+    "input": "",
+    "output": "Missed EMIs may attract late payment charges and could impact your credit score. It is advisable to regularize overdue payments at the earliest."
+  },
+  {
+    "instruction": "May I know how can i close my savings account?",
+    "input": "",
+    "output": "Account closure requests must be submitted through authorized banking channels after clearing all pending balances and obligations."
+  },
+  {
+    "instruction": "Provide details about what is loan tenure?",
+    "input": "",
+    "output": "Loan tenure refers to the total duration over which the borrowed amount is scheduled to be repaid along with applicable interest."
+  },
+  {
+    "instruction": "Help me understand how do i update my registered mobile number?",
+    "input": "",
+    "output": "Mobile number updates require identity verification and can be initiated through branch visit or secure online banking channels."
+  },
+  {
+    "instruction": "May I know what is a floating interest rate?",
+    "input": "",
+    "output": "A floating interest rate varies based on benchmark rate movements and may change periodically during the loan tenure."
+  },
+  {
+    "instruction": "Can you tell me what is a fixed interest rate?",
+    "input": "",
+    "output": "A fixed interest rate remains constant throughout the agreed loan tenure irrespective of market fluctuations."
+  },
+  {
+    "instruction": "Give information about how long does loan approval take?",
+    "input": "",
+    "output": "Loan approval timelines vary depending on document verification, eligibility assessment, and internal processing standards."
+  },
+  {
+    "instruction": "I need information on can i transfer my loan to another bank?",
+    "input": "",
+    "output": "Loan balance transfer is permitted subject to eligibility and policy guidelines of the receiving institution."
+  },
+  {
+    "instruction": "Can you tell me how is my credit score used?",
+    "input": "",
+    "output": "Your credit score reflects repayment behavior and is used as one of the parameters to assess loan and credit applications."
+  },
+  {
+    "instruction": "Provide details about what is emi moratorium?",
+    "input": "",
+    "output": "An EMI moratorium allows temporary deferment of scheduled payments under specific regulatory or policy provisions."
+  },
+  {
+    "instruction": "Help me understand how can i reset my online banking password?",
+    "input": "",
+    "output": "Password reset can be completed securely through the official login page using registered authentication methods."
+  },
+  {
+    "instruction": "I need information on is there a penalty for late payment?",
+    "input": "",
+    "output": "Late payments may attract penalties as specified in your agreement. Please review the applicable terms in your loan or card documentation."
+  },
+  {
+    "instruction": "Kindly clarify how do i check my outstanding loan balance?",
+    "input": "",
+    "output": "Outstanding balance details are available through your loan statement or via the customer service portal."
+  },
+  {
+    "instruction": "Please explain what is loan processing fee?",
+    "input": "",
+    "output": "A processing fee is a one-time charge applied during loan initiation to cover administrative and verification expenses."
+  },
+  {
+    "instruction": "Can you tell me can i change my loan tenure?",
+    "input": "",
+    "output": "Tenure modification requests are evaluated based on repayment history and internal approval policies."
+  },
+  {
+    "instruction": "Can you tell me how do i dispute a transaction?",
+    "input": "",
+    "output": "Transaction disputes must be submitted through the designated grievance mechanism with complete transaction details."
+  },
+  {
+    "instruction": "Can you tell me what is apr?",
+    "input": "",
+    "output": "APR or Annual Percentage Rate represents the total yearly cost of borrowing including applicable interest and certain charges."
+  },
+  {
+    "instruction": "Help me understand how is interest applied on credit cards?",
+    "input": "",
+    "output": "Interest is applied on revolving balances beyond the due date as per the cardholder agreement."
+  },
+  {
+    "instruction": "Help me understand can i open a joint account?",
+    "input": "",
+    "output": "Joint account opening is subject to submission of identity documents and compliance with regulatory requirements."
+  },
+  {
+    "instruction": "I need information on what is kyc verification?",
+    "input": "",
+    "output": "KYC verification is a regulatory process to confirm customer identity and ensure compliance with financial regulations."
+  },
+  {
+    "instruction": "I need information on how do i check my emi schedule?",
+    "input": "",
+    "output": "EMI schedule details are available in your loan amortization statement provided at disbursement."
+  },
+  {
+    "instruction": "May I know what is loan restructuring?",
+    "input": "",
+    "output": "Loan restructuring refers to modification of repayment terms under specific financial hardship conditions subject to approval."
+  },
+  {
+    "instruction": "May I know how can i block my debit card?",
+    "input": "",
+    "output": "Debit card blocking can be done instantly via the official banking app or by contacting authorized customer support."
+  },
+  {
+    "instruction": "Give information about what is minimum due amount?",
+    "input": "",
+    "output": "The minimum due amount represents the lowest payment required to keep your credit account in good standing."
+  },
+  {
+    "instruction": "Please explain can i get a duplicate loan statement?",
+    "input": "",
+    "output": "Duplicate loan statements can be requested through official service channels or downloaded via online banking."
+  },
+  {
+    "instruction": "I need information on how do i update my address?",
+    "input": "",
+    "output": "Address updates require submission of valid proof documents through authorized banking channels."
+  },
+  {
+    "instruction": "Help me understand what is overdraft facility?",
+    "input": "",
+    "output": "An overdraft facility allows withdrawal beyond the available account balance up to an approved limit."
+  },
+  {
+    "instruction": "May I know how can i activate my new card?",
+    "input": "",
+    "output": "Card activation can be completed securely through the official mobile app, online portal, or IVR system."
+  },
+  {
+    "instruction": "Can you tell me what is loan disbursement process?",
+    "input": "",
+    "output": "Loan disbursement occurs after successful verification of documentation and completion of approval procedures."
+  },
+  {
+    "instruction": "Give information about can i apply for a top-up loan?",
+    "input": "",
+    "output": "Top-up loan eligibility depends on repayment performance and outstanding balance assessment."
+  },
+  {
+    "instruction": "I would like to know what is ecs mandate?",
+    "input": "",
+    "output": "An ECS mandate authorizes automatic debit of scheduled payments from your registered bank account."
+  },
+  {
+    "instruction": "I would like to know how do i file a complaint?",
+    "input": "",
+    "output": "Complaints can be submitted through the official grievance redressal mechanism with reference details."
+  },
+  {
+    "instruction": "Could you explain how long does refund processing take?",
+    "input": "",
+    "output": "Refund timelines depend on transaction type and banking network processing standards."
+  },
+  {
+    "instruction": "I need information on what is credit utilization ratio?",
+    "input": "",
+    "output": "Credit utilization ratio represents the percentage of total credit limit currently being used."
+  },
+  {
+    "instruction": "I need information on can i cancel my loan application?",
+    "input": "",
+    "output": "Loan cancellation requests are processed subject to application stage and internal approval guidelines."
+  },
+  {
+    "instruction": "Give information about what is secured loan?",
+    "input": "",
+    "output": "A secured loan is backed by collateral which may be claimed by the lender in case of default."
+  },
+  {
+    "instruction": "Provide details about what is unsecured loan?",
+    "input": "",
+    "output": "An unsecured loan does not require collateral and is approved based on creditworthiness assessment."
+  }
+]

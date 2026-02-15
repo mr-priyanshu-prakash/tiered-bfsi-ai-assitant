@@ -1,0 +1,19 @@
+# Core ML / Embeddings
+sentence-transformers==2.6.1
+transformers==4.41.2
+torch==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+
+# Vector Search
+faiss-cpu==1.8.0
+
+# Local LLM (GGUF)
+llama-cpp-python==0.2.82
+
+# Data handling
+pandas==2.2.2
+
+# Utilities
+tqdm==4.66.4
+

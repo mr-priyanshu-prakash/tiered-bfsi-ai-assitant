@@ -1,0 +1,31 @@
+BFSI Interest Rates & EMI Guidelines
+
+Savings Account Interest:
+• Interest rates range from 2.5% to 4% per annum
+• Calculated daily and credited quarterly
+
+Fixed Deposit (FD):
+• Tenure: 7 days to 10 years
+• Interest rates vary between 5% and 7.5% depending on tenure
+• Premature withdrawal may attract penalty
+
+Loan Interest Rates:
+• Home loans: starting from 8.25% per annum
+• Personal loans: starting from 10.5% per annum
+• Auto loans: starting from 9% per annum
+
+EMI Calculation:
+EMI is calculated based on:
+• Principal loan amount
+• Interest rate
+• Loan tenure
+
+Customers can use online EMI calculators to estimate monthly payments.
+
+Late Payment Charges:
+• EMI delays may incur penalty interest
+• Continuous default may impact credit score
+
+Prepayment Rules:
+• Partial prepayment allowed after lock-in period
+• Some loans may have foreclosure charges

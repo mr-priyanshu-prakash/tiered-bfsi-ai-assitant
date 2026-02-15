@@ -1,0 +1,25 @@
+BFSI Banking Rules & Service Limits
+
+Transaction Limits:
+• ATM withdrawal limit: ₹50,000 per day (may vary by account type)
+• Online transfer (IMPS): ₹2,00,000 per day
+• NEFT: No minimum limit, subject to bank policies
+
+Minimum Balance Requirements:
+• Savings account: ₹10,000 (metro) / ₹5,000 (non-metro)
+• Salary accounts: No minimum balance
+
+Cheque Clearance:
+• Local cheques: 1–2 working days
+• Outstation cheques: 3–5 working days
+
+Dormant Accounts:
+• Accounts with no activity for 24 months are marked dormant
+• Reactivation requires identity verification
+
+Service Charges:
+• Non-maintenance of minimum balance may attract penalty fees
+• Replacement debit card charges may apply
+
+Customer Support:
+• 24/7 helpline available for lost card blocking and fraud reporting
