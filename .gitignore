@@ -3,3 +3,7 @@ models/*.gguf
 .DS_Store
 models/*.gguf
 .DS_Store
+__pycache__/
+*.pyc
+.env
+models/
